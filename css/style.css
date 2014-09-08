@@ -1,0 +1,21 @@
+@charset "UTF-8";
+
+.strong { 
+  color : #00FF00;
+ /* font-weight: normal;
+  font-size: 24px;
+  font-family: sans-serif;
+  line-height:96px; */
+  font: normal 54px/24px sans-serif;
+}
+#medium_strong {
+  font: normal 24px/24px sans-serif;
+}
+a {
+  color: #0000AA;
+  text-decoration: none;
+}
+a:hover {
+ text-decoration: underline;
+}
+
